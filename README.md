@@ -16,8 +16,6 @@
 [<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Codeigniter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" style="padding-right:10px;" />][webdev]
-
-<br />
 <br />
 
 ---
