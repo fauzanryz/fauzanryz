@@ -1,18 +1,11 @@
 # Hi there, I'm Fauzan - aka [fauzanryz](https://www.instagram.com/fauzanryz/)👋
 ## About me:
-- 🔭 I’m currently working as Student
-- 🌱 I’m currently learning PHP and Javascript
-- 👯 I’m looking to collaborate as as Web Developer and Mobile Developer
-- 🤔 I’m looking for suggest for New Project Ideas
-- 💬 Ask me about anything
-- 📫 How to reach me: fauzanryz@gmail.com
-
-🔭 Currently immersed in the world of academia
-🌱 Passionately exploring the realms of PHP and Javascript
-👯 Eager to collaborate on exciting ventures as a Web and Mobile Developer
-🤔 Seeking inspiration for groundbreaking project ideas
-💬 Feel free to strike up a conversation about anything under the sun
-📫 Reach out to me at: fauzanryz@gmail.com
+- 🔭 Currently immersed in the world of academia
+- 🌱 Passionately exploring the realms of PHP and Javascript
+- 🤔 Seeking inspiration for groundbreaking project ideas
+- 💬 Feel free to strike up a conversation about anything under the sun
+- 📫 Reach out to me at: fauzanryz@gmail.com
+ 
 
 ## Languages and Tools:
 
