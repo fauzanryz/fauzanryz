@@ -4,7 +4,7 @@
 - 🌱 Passionately exploring the realms of PHP and Javascript
 - 🤔 Seeking inspiration for groundbreaking project ideas
 - 💬 Feel free to strike up a conversation about anything under the sun
-- 📫 Reach out to me at: fauzanryz@gmail.com
+- 📫 Reach out to me at: fauzanes22@gmail.com
  
 
 ## Languages and Tools:
