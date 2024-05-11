@@ -7,6 +7,13 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: fauzanryz@gmail.com
 
+🔭 Currently immersed in the world of academia
+🌱 Passionately exploring the realms of PHP and Javascript
+👯 Eager to collaborate on exciting ventures as a Web and Mobile Developer
+🤔 Seeking inspiration for groundbreaking project ideas
+💬 Feel free to strike up a conversation about anything under the sun
+📫 Reach out to me at: fauzanryz@gmail.com
+
 ## Languages and Tools:
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
